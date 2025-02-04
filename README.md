@@ -1,6 +1,6 @@
 # Mistral Chat Interface
 
-This project provides an interactive chat interface for the Mistral-Small-24B-Base-2501 model using PyTorch and the Hugging Face Transformers library.
+This project provides an interactive chat interface for the mistralai/Mistral-Small-24B-Instruct-2501 model using PyTorch and the Hugging Face Transformers library.
 
 ## Requirements
 
@@ -42,7 +42,7 @@ python mistral.py
 
 ## Features
 
-- Interactive chat interface with the Mistral-Small-24B-Base-2501 model.
+- Interactive chat interface with the mistralai/Mistral-Small-24B-Instruct-2501 model.
 - Progress indicator while generating responses.
 - Supports Apple Silicon GPU (MPS) for faster inference.
 
